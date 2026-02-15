@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TheophilusZhang
-- 👀 I’m interested in Data Analytics and FinTech
-- 🌱 I’m currently learning Business Analytics in Data Science track
-- 💞️ I’m looking to collaborate on Kaggle Competitions
+- 👀 I’m interested in Data Science and AI
+- 🌱 I’m currently working as a Data Analyst
+- 💞️ I’m looking to collaborate on Kaggle Competitions or other Hackatons
 - 📫 How to reach me www.linkedin.com/in/bozhangdata
 
 <!---
