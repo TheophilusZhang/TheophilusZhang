@@ -24,6 +24,8 @@ I'm expanding my knowledge of **Python, SQL, PySpark, Hadoop, model deployment, 
 
 Become a **well-rounded engineer** with a deeper understanding of data systems, machine learning, and computing infrastructure. I'm currently focused on strengthening my PySpark skills and gaining hands-on experience with LLMs, agentic AI, and GPU computing.
 
+## Resume
+[📄 My Resume](https://github.com/TheophilusZhang/Bo_Portfolio/blob/main/Bo_Zhang_Resume_DEv2.1.pdf)
 <!---
 TheophilusZhang/TheophilusZhang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
